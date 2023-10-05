@@ -11,6 +11,14 @@
 ## Demo
 
 To see a demo of this project, check out this [Live](https://youtu.be/7HEijyp9TJg). 
+
+## Why this project?
+
+Previously I created the ChatBud Connect using Next.js web app real time chat application and now creating this chat app using java in terminal base app.
+
+- [Project Link](https://github.com/HarshBaldaniya/HB-Chat) 
+
+
 ## 🌟 What's Inside?
 
 - Real-Time Chat
