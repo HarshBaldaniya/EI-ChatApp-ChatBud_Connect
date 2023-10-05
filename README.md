@@ -22,7 +22,7 @@ To see a demo of this project, check out this [Live](https://youtu.be/7HEijyp9TJ
 
 ## How to use feature in the chat room?
 
-- /pm <username> <message>
+- /pm username message
     -
     eg. /pm Tirth Hello tirth? 
     Private message by Harsh as a user to Tirth
