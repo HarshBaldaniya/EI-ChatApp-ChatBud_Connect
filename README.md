@@ -81,10 +81,12 @@ Create mulltiple clients at same time also...
 
 ## Screenshots
 
-![01](images/01.png)
-![02](images/02.png)
-![03](images/03.png)
-![04](images/04.png)
+
+![04](https://github.com/HarshBaldaniya/EI-ChatApp-ChatBud_Connect/assets/89580214/902d3ced-fdc1-4241-8042-5b255a4f85a3)
+![03](https://github.com/HarshBaldaniya/EI-ChatApp-ChatBud_Connect/assets/89580214/9e8a7ae2-1471-4272-b421-8a0c7668fdc1)
+![02](https://github.com/HarshBaldaniya/EI-ChatApp-ChatBud_Connect/assets/89580214/9b44c632-85f2-4bcf-b530-6e8b1f0d96ef)
+![01](https://github.com/HarshBaldaniya/EI-ChatApp-ChatBud_Connect/assets/89580214/275e6be7-d008-4639-b614-51e4c9eedd29)
+
 
 
 
